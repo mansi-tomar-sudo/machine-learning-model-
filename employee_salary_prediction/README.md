@@ -28,7 +28,10 @@ This project predicts employee salary using Linear Regression.
 
 ## Results
 
-R² Score : 0.91
+- R² Score : 0.91
+- Mean Absolute Error : 9537.39297690621
+- Mean Squared Error : 192859057.46455845
+- Root Mean Squared Error : 13887.37043016274
 
 ## Author
 
